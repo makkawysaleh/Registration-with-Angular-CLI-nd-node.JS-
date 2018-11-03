@@ -16,6 +16,8 @@ Then navigate to the project folder and run `ng serve --open` for a dev server. 
 ## In this project
 There are three main components: `localhost:4200/signin` , `localhost:4200/signup` and `localhost:4200/reset-password`. The project is connected to [Firebase](https://firebase.google.com/)
 
+<img width="610" alt="screen shot 2018-11-03 at 1 02 09 pm" src="https://user-images.githubusercontent.com/15700170/47955153-bec5e300-df69-11e8-8a17-51340b16481e.png">
+
 The app will always direct you to signin page. If you don't have an account, go to the `signup` page to sign-up. You can sign up with Twitter, Google or by entering a valid email and password. 
 
 You can always `reset you password` link, if you forget your password. a link will be sent to your email to reset your password. 

@@ -22,6 +22,20 @@ The app will always direct you to signin page. If you don't have an account, go 
 
 You can always `reset you password` link, if you forget your password. a link will be sent to your email to reset your password. 
 
+## If you couldn't get the project to work
+Try these commands and make sure that you are running the same versions of software and libraries that I am running.
+1-Open a terminal and type `ng --version`, this will returns the angular's version you are running. Make sure that you ar running `6.2.5`.
+
+<img width="738" alt="screen shot 2018-11-12 at 12 23 52 pm" src="https://user-images.githubusercontent.com/15700170/48364239-e6a5fc80-e675-11e8-9988-f2d041381575.png">
+
+2- Type `node -v` to see the node's version you are running make sure it is `V10.12.0`.
+
+3- Type `npm -v` to check node.js packages and modules version. It shloud return `6.4.1`.
+
+4- make sure that you installed Angular material from this site [angular material](https://material.angular.io/). And follow the instrections to get started if you haven't done them.
+
+5- Finally, if you couldn't get it to work you can email me at {salehmakkawy@gmail.com}
+
 
 
 

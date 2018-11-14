@@ -39,6 +39,24 @@ Try these commands and make sure that you are running the same versions of softw
 
 
 
+## If you want to run Angular CLI 4,5,6> on Cloud9 you should follow this commands:
+
+C9/Angular setup:
+
+1- `$ nvm install node (installs latest node version within C9 workspace environment)`.
+2- `$ nvm ls (see what version was installed, use that version in next command)`.
+3- `$ nvm alias default (makes version the workspace default)`.
+4- `$ npm i -g npm (updates npm version to match new node version)`.
+5- `$ npm install -g @angular/cli`.
+
+## If you want to create new app 
+`$ ng new my-new-ngapp`
+
+## If you want to run an existing app 
+
+navigate to the folder of the app and do this command:
+`$ ng serve --host 0.0.0.0 --port 8080 --disableHostCheck`
+You will able to see it get it running. 
 
 ## Further help
 
